@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/dr-rob-taylor/testPackR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/dr-rob-taylor/testPackR/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/dr-rob-taylor/testPackR/graph/badge.svg)](https://app.codecov.io/gh/dr-rob-taylor/testPackR)
 <!-- badges: end -->
 
 The goal of testPackR is to develop my package building capabilities. It is necessarily a bare bones package, allowing me to focus on workflows and best practice in building R packages.
