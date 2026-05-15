@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/dr-rob-taylor/testPackR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/dr-rob-taylor/testPackR/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of testPackR is to develop my package building capabilities. It
